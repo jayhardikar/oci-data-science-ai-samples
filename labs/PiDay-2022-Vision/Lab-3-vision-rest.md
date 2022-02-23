@@ -1,16 +1,16 @@
-# Lab 4: Access OCI Language with REST APIs
+# Lab 3: Access OCI Language with REST APIs
 
 ## Introduction
 
 
-In this lab session, we will show you how to access OCI Language using POSTMAN.
+In this lab session, we will show you how to access OCI Vision using POSTMAN.
 
 Postman is a GUI-based REST API invocation tool that is very popular among developers.
 
 *Estimated Lab Time*: 10 minutes
 
 ### Objectives:
-* Learn how to access Language Service through REST APIs.
+* Learn how to access OCI Vision Service through REST APIs.
 
 ### Prerequisites:
 * Basic knowledge of REST API calls.
@@ -54,7 +54,7 @@ Just make sure that the OCI REST calls are executed as part of the OCI REST COLL
 
 ## **TASK 2:** Invoke Language OCI REST APIs
 
-Invoke Language OCI REST APIs by clicking any one of the requests in the OCI REST COLLECTION. Enter the text you want to analyze in the body as shown below:
+Invoke Vision OCI REST APIs by clicking any one of the requests in the OCI REST COLLECTION. Enter the text you want to analyze in the body as shown below:
     ```
     <copy>{
         "text" : "American football was derived from the European games of rugby and soccer. Unlike the game of soccer, however, American football focuses more on passing and catching the ball with the hands as opposed to kicking the ball with the feet. Standard American football field is 120 yards in length and 160 feet in width. They are hash marks on every yards and every 10 yards. American football is quickly become more popular then baseball and fan bases are increasing rapidly. Jerry Rice, Tom Brady and Lawrence Taylor are few top player of this sports."
